@@ -8,7 +8,6 @@
 [![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)](https://github.com/acekyd/made-in-nigeria)
 [![Version 1.1.0](https://img.shields.io/badge/version-1.1.0-purple.svg)](http://www.firsttimersonly.com/)
  
-# Description
 A lightweight Extension for VSCode that brings the power of Materialize CSS into your editor
 
 
