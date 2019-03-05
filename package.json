@@ -3,6 +3,12 @@
 	"displayName": "Materialize VScode Snippets",
 	"description": "A lightweight Extension for VSCode that brings the power of Materialize CSS into your editor",
 	"version": "1.0.0",
+	"publisher": "Afolayan Raphael Oluwaseun",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/opensaucedeveloper/materialize-vscode-snippets"
+	},
+	"icon": "materialize-vscode-snippets-icon.png",
 	"engines": {
 		"vscode": "^1.31.0"
 	},
