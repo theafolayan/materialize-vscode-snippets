@@ -10,6 +10,8 @@
  
 A lightweight Extension for VSCode that brings the power of Materialize CSS into your editor
 
+## Contibutor's Guide [here](https://github.com/*/blob/master/docs/CONTRIBUTING.md)
+
 
 ## Changes: 
 Added a materialize starter template shortcut :'!mtrl'
@@ -20,7 +22,7 @@ Added a materialize starter template shortcut :'!mtrl'
 
 **Note:** The Extension Works when you are on an HTML or javascript React File . I.e Files ending with .html and .jsx
 
-### Please star this repository :) It Would Make Me Very Happy!
+## Don't forget to start this repositoty :smile:
 
 ## Acknowledgments
 Some resources used in making this extension:
