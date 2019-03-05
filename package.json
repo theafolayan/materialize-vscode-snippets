@@ -1,7 +1,7 @@
 {
 	"name": "materialize-vscode-snippets",
 	"displayName": "Materialize VScode Snippets",
-	"description": "A lightweight Extension for VSCode that brings the power of Materialize Css into your editor",
+	"description": "A lightweight Extension for VSCode that brings the power of Materialize CSS into your editor",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.31.0"
