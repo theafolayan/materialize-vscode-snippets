@@ -1,8 +1,6 @@
 <div align="center">
-`# materialize-vscode-snippets`
+# `materialize-vscode-snippets`
  
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 ### Version: 1.1.0
 # Description
 A lightweight Extension for VSCode that brings the power of Materialize CSS into your editor
