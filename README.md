@@ -7,8 +7,12 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)](https://github.com/acekyd/made-in-nigeria)
 [![Version 1.1.0](https://img.shields.io/badge/version-1.1.0-purple.svg)](http://www.firsttimersonly.com/)
+
+![](https://raw.githubusercontent.com/BolajiAyodeji/netty-finder/master/img/NettyFinder.png)
  
 A lightweight Extension for VSCode that brings the power of Materialize CSS into your editor
+
+</div>
 
 ## Contibutor's Guide [here](https://github.com/*/blob/master/docs/CONTRIBUTING.md)
 
@@ -32,6 +36,3 @@ Some resources used in making this extension:
 
 ## Licence
 [MIT](https://opensource.org/licenses/MIT)
-
-
-</div>
