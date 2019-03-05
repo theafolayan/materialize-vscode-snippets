@@ -4,9 +4,7 @@ This is the README for your extension "materialize-vscode-snippets". After writi
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
-For example if there is an image subfolder under your extension project workspace:
 
 \!\[feature X\]\(images/feature-x.png\)
 
@@ -59,7 +57,8 @@ Added features X, Y, and Z.
 
 ### For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Acknowledgments
 
+* [Brad Traversy](https://traversymedia.com)
+* [Materialize Official Documentation] (https://materializecss.com)
 **Enjoy!**
