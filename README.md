@@ -12,11 +12,8 @@ A lightweight Extension for VSCode that brings the power of Materialize CSS into
 
 ## Contibutor's Guide [here](https://github.com/*/blob/master/docs/CONTRIBUTING.md)
 
-
 ## Changes: 
 Added a materialize starter template shortcut :'!mtrl'
-
------------------------------------------------------------------------------------------------------------
 
 ## Working with Markdown
 
@@ -29,5 +26,12 @@ Some resources used in making this extension:
 
 * [Brad Traversy](https://traversymedia.com)
 * [Materialize Official Documentation](https://materializecss.com)
+
+## Author
+[Rapheal Afolayan](https://github.com/opensaucedeveloper)
+
+## Licence
+[MIT](https://opensource.org/licenses/MIT)
+
 
 </div>
