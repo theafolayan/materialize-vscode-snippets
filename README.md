@@ -1,4 +1,7 @@
-# materialize-vscode-snippets README
+<div align="center">
+`# materialize-vscode-snippets`
+ 
+ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ### Version: 1.1.0
 # Description
@@ -17,9 +20,9 @@ Added a materialize starter template shortcut :'!mtrl'
 ### Please star this repository :) It Would Make Me Very Happy!
 
 ## Acknowledgments
-SOme Resources i used in making this extension:
+Some resources used in making this extension:
 
 * [Brad Traversy](https://traversymedia.com)
 * [Materialize Official Documentation](https://materializecss.com)
 
-**Enjoy Your Development!**
+</div>
