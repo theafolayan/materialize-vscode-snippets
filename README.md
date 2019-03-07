@@ -14,7 +14,7 @@ A lightweight Extension for VSCode that brings the power of Materialize CSS into
 
 </div>
 
-## Contibutor's Guide [here](https://github.com/*/blob/master/docs/CONTRIBUTING.md)
+## Contibutor's Guide [here](https://github.com/opensaucedeveloper/materialize-vscode-snippets/blob/master/CONTRIBUTING.md)
 
 <span style="color:red"> `The Extension Works when you are on an HTML or javascript React File . I.e Files ending with .html and .jsx` </span>
 
